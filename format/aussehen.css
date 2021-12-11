@@ -1,0 +1,62 @@
+/* Die Datei DATEI: aussehen.css ist passend zu erweitern*/
+
+.mittig  {  text-align:  center;
+         }
+
+.rechts  {  text-align:  right;
+         }
+.links  {  text-align:  left;
+         }
+
+.gross  {  font-size:   150%;
+/*          120% bezogen auf die Ausgangsschriftgr��e im BODY-Tag */
+         }
+
+
+body {background-color: peachpuff;
+}
+ol {list-style-type: lower-latin;
+    }
+	
+h2 {text-align:  center; 
+    background-color: skyblue;
+	margin-bottom: 0px; 
+	margin-top: 0px;
+    color: blue;
+} 
+
+h1 {text-align:  center; 
+    background-color: red;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: peachpuff;
+}
+h3 {text-align:  center;
+    color:black;
+}
+p {color:black;
+}
+nav {background-color: skyblue;
+color: blue}
+
+   
+tr,td,th {border-width:10px;
+        border-style: groove;
+        border-color:blue;
+		color: blue;
+		text-align: center;
+		background-color: skyblue;
+		
+}
+table {background-color: peachpuff;
+       border-color: red;
+	   border-style: solid;
+	   
+}
+	
+footer { color: white;
+}
+h4 { color: Red; 
+	margin-bottom: 0px;
+	margin-top: 0px;
+}

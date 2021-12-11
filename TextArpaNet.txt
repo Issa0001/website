@@ -1,0 +1,33 @@
+Die Urspr&uuml;nge des heutigen Internet reichen in die 60er 
+Jahre zur&uuml;ck. Es war die Zeit des Kalten Krieges zwischen den beiden 
+Weltm&auml;chten USA und Ud&szlig;R. Neue Impulse in der Elektronischen Datenverarbeitung 
+(EDV) kamen in jener Zeit haupts&auml;chlich durch milit&auml;rische Initiativen zustande. 
+Mittlerweile gibt es im Internet Proteste gegen die Auffa&szlig;ung, milit&auml;rische Intere&szlig;en 
+h&auml;tten das Internet geboren. Das ist insofern berechtigt, als es keine unmittelbare 
+Ursachen-Wirkungs-Verh&auml;ltni&szlig;e gibt. Doch die technologischen Ideen und Entwicklungen der Vorl&auml;ufernetze 
+kamen definitiv aus dem milit&auml;rnahen Umfeld in den USA, und es ist deshalb auch nicht 
+verkehrt, das so darzustellen.
+
+Im Department of Defense, dem amerikanischen Verteidigungsministerium, 
+wurde seit den fr&uuml;hen 60er Jahren &uuml;berlegt, wie man wichtige milit&auml;rische 
+Daten be&szlig;er sch&uuml;tzen k&ouml;nnte. Selbst bei einem atomaren Angriff des Gegners sollten die 
+Daten nicht zerst&ouml;rt werden k&ouml;nnen. Als L&ouml;sung kam nur ein elektronisches Datennetz in 
+Frage. Die gleichen Daten sollten dabei auf mehreren, weit entfernten Rechnern abgelegt 
+werden. Bei neuen oder ge&auml;nderten Daten sollten sich alle angeschlo&szlig;enen Rechner binnen 
+k&uuml;rzester Zeit den aktuellen Datenstand zusenden. Jeder Rechner sollte dabei &uuml;ber mehrere 
+Wege mit jedem anderen Rechner kommunizieren k&ouml;nnen. So w&uuml;rde das Netz auch dann 
+funktionieren, wenn ein einzelner Rechner oder eine bestimmte Leitung durch einen 
+Angriff zerst&ouml;rt w&uuml;rde. So gab die US Air Force 1964 bei der RAND Corporation das 
+so genannte "dezentrale Netzwerk" in Auftrag. Bei dem, was da entwickelt werden 
+sollte, handelt es sich noch nicht um den direkten Vorl&auml;ufer des heutigen Internet. Nach 
+vielem Hin und Her scheiterte dieses Projekt auch und wurde nie realisiert. Die Idee 
+des "dezentralen Netzwerks" mit der paketweisen Daten&uuml;bertragung blieb jedoch in den K&ouml;pfen h&auml;ngen.
+
+Die Advanced Research Projects Agency (ARPA), eine seit 1958 bestehende wi&szlig;enschaftliche 
+Einrichtung, deren Forschungsergebni&szlig;e in milit&auml;rische Zwecke einflo&szlig;en, entschlo&szlig; sich 
+1966 zur Vernetzung der ARPA-eigenen Gro&szlig;rechner. Dabei wurde die Idee des "dezentralen Netzwerks" 
+wieder aufgegriffen. Ende 1969 waren die ersten vier Rechner an das ARPA-Net angeschlo&szlig;en. Drei 
+Jahre sp&auml;ter waren es bereits 40 Rechner. In dieser Zeit war es jedoch das ARPA-eigene Netz. 
+In den ersten Jahren wurde das Netz deshalb auch ARPA-Net genannt. Aus ihm sollte sp&auml;ter das 
+Internet entwachsen.
+---------------------------
